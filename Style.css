@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
 }
-
+.home{
+    font-size: 2rem;
+}
 body{
     overflow: hidden;
 }
